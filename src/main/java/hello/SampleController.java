@@ -91,7 +91,8 @@ public class SampleController {
         System.out.println("3.사이다 1300");
         System.out.println("4.포카리스웨트 1000");
         System.out.println("5.조지아 1600");
-        System.out.println("---------------------------");
+	System.out.println("6.쿨피스 1000");:
+	System.out.println("---------------------------");
     }
 
     public static int calcTotalPrice(int price, int number){
